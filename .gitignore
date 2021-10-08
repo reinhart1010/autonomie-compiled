@@ -1,6 +1,6 @@
 /.sass-cache/
 /node_modules/
-/vendor/
+#/vendor/
 .DS_Store
 _build
 composer.lock
